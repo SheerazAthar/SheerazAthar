@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SheerazAthar
+- 👋 Hi, I’m @sheerazathar
 - 👀 I’m interested in Soft Robotics and Biomechanics
 
 - 📫 I can be contacted on:
